@@ -1,0 +1,10 @@
+        <footer>
+            <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; Cody Dailey 2020" | markdownify }}</p>
+            <p class="copyright text-muted">{{ "Powered by [Hugo](https://gohugo.io) and a modified [Minimal](https://github.com/calintat/minimal) theme." | markdownify }}</p>
+        </footer>
+
+        {{ partial "body-close" . }}
+        
+    </body>
+
+</html>

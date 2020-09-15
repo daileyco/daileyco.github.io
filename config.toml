@@ -1,0 +1,78 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Cody Dailey"
+theme = "minimal-CAD-edits"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+
+
+
+[params]
+    author = "Cody Dailey"
+    description = "A personal website built through Hugo and blogdown."
+    githubUsername = "daileyco"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "lightgray"
+    font = "Anaheim" # should match the name on Google Fonts!
+    
+    
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "images/Opie_ears_cropped.png"
+
+
+    profilePic = ""    
+    
+    [params.logo]
+    url = "CAD_cartoon_JFR-removebg.png"
+    width = 50
+    height = 50
+    alt = "CAD-cartoon"
+
+
+
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about-me/"
+[[menu.main]]
+    name = "Curriculum Vitae"
+    url = "/CV/CV_Dailey_09112020.pdf"
+
+
+
+
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:daileyco@uga.edu"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/daileyco/"
+    name = "github"
+    weight = 2
