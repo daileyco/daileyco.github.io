@@ -131,3 +131,11 @@ footer {
   display: inline-block;
   margin: 0 0 20px 15px;
 }
+
+
+
+.image {
+  display: inline-block;
+  border-radius: 5px;
+  border: 2px solid #ffffff; 
+}

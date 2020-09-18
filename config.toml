@@ -57,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about-me/"
 [[menu.main]]
     name = "Curriculum Vitae"
-    url = "/CV/CV_Dailey_09112020.pdf"
+    url = "/cv/cv_dailey_09112020.pdf"
 
 
 
