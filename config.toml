@@ -5,6 +5,7 @@ theme = "minimal-CAD-edits"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 
 
@@ -12,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     author = "Cody Dailey"
-    description = "A personal website built through Hugo and blogdown."
+    description = "A personal website built through Hugo and blogdown. test test test"
     githubUsername = "daileyco"
     accent = "red"
     showBorder = true
@@ -58,6 +59,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Curriculum Vitae"
     url = "/cv/cv_dailey_09112020.pdf"
+[[menu.main]]
+    name = "Journal of Walkthroughs"
 
 
 
@@ -76,3 +79,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://github.com/daileyco/"
     name = "github"
     weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/username/"
+    name = "linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 4
+
