@@ -44,7 +44,7 @@ publishDir = "docs"
     profilePic = ""    
     
     [params.logo]
-    url = "/pictures/CAD_cartoon_JFR-removebg.png"
+    url = "../pictures/CAD_cartoon_JFR-removebg.png"
     width = 50
     height = 50
     alt = "CAD-cartoon"
@@ -61,9 +61,10 @@ publishDir = "docs"
     url = "/about-me/"
 [[menu.main]]
     name = "Curriculum Vitae"
-    url = "/cv/cv_dailey_09112020.pdf"
+    url = "/cv/CD_Dailey_20210428.pdf"
 [[menu.main]]
     name = "Journal of Walkthroughs"
+    url = "https://daileyco.github.io/Journal-of-Walkthroughs"
 
 
 
@@ -84,12 +85,12 @@ publishDir = "docs"
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/daileyco/"
     name = "linkedin"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
+    url = "https://stackoverflow.com/users/7870390/daileyco"
     name = "stack-overflow"
     weight = 4
 
