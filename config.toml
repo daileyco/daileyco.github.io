@@ -38,13 +38,13 @@ publishDir = "docs"
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "images/Opie_ears_cropped.png"
+    favicon = "pictures/Opie_ears_cropped.png"
 
 
     profilePic = ""    
     
     [params.logo]
-    url = "CAD_cartoon_JFR-removebg.png"
+    url = "*/pictures/CAD_cartoon_JFR-removebg.png"
     width = 50
     height = 50
     alt = "CAD-cartoon"
