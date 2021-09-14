@@ -61,7 +61,7 @@ publishDir = "docs"
     url = "/about-me/"
 [[menu.main]]
     name = "Curriculum Vitae"
-    url = "/cv/CD_Dailey_20210428.pdf"
+    url = "/cv/CV_Dailey_20210428.pdf"
 [[menu.main]]
     name = "Journal of Walkthroughs"
     url = "https://daileyco.github.io/Journal-of-Walkthroughs"
