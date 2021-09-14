@@ -44,7 +44,7 @@ publishDir = "docs"
     profilePic = ""    
     
     [params.logo]
-    url = "*/pictures/CAD_cartoon_JFR-removebg.png"
+    url = "/pictures/CAD_cartoon_JFR-removebg.png"
     width = 50
     height = 50
     alt = "CAD-cartoon"
