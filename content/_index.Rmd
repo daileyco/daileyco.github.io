@@ -9,7 +9,7 @@ description: ""
 
 [About Me](/about-me/) has a brief of my background. 
 
-[Curriculum Vitae](/cv/cv_dailey_09112020.pdf) has a likely-out-of-date CV. :)
+[Curriculum Vitae](/cv/cv_dailey_20210428.pdf) has a likely-out-of-date CV. :)
 
 [Journal of Walkthroughs](https://daileyco.github.io/Journal-of-Walkthroughs) contains a variety of blog posts / tutorials that I've developed, mainly, for myself. 
 
