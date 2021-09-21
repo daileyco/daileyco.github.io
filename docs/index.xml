@@ -1,19 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cody Dailey&#39;s Personal Website on Cody Dailey</title>
-    <link>https://daileyco.github.io/</link>
-    <description>Recent content in Cody Dailey&#39;s Personal Website on Cody Dailey</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://daileyco.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://daileyco.github.io/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daileyco.github.io/about-me/</guid>
-      <description>figure {display: inline-block;margin: 0 auto;vertical-align: top;text-align: center;}figure img {vertical-align: top;border: 5px solid #ffffff; border-bottom: 50px solid #ffffff;}figure figcaption {font-size: 75%;text-align: left;margin-top: -40px;margin-left: 5px;}Hello! My name is Cody Dailey. I am an Epidemiology PhD Student in the Department of Epidemiology and Biostatistics in the College of Public Health at the University of Georgia (UGA).</description>
-    </item>
-    
-  </channel>
-</rss>
