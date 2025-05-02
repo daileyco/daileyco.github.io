@@ -61,7 +61,7 @@ publishDir = "docs"
     url = "/about-me/"
 [[menu.main]]
     name = "Curriculum Vitae"
-    url = "/cv/cv_dailey_20210428.pdf"
+    url = "/cv/CV_Dailey_20250327.pdf"
 [[menu.main]]
     name = "Journal of Walkthroughs"
     url = "https://daileyco.github.io/Journal-of-Walkthroughs"
@@ -75,7 +75,7 @@ publishDir = "docs"
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:daileyco@uga.edu"
+    url = "mailto:daileyco@gmail.com"
     name = "envelope-o"
     weight = 1
 
