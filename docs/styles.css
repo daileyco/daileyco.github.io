@@ -1,0 +1,12 @@
+/* css styles */
+
+.navbar-logo {
+  max-height: 100px;
+}
+
+.figure-caption {
+    font-size: 10px;
+    text-align: left;
+    margin-top: -40px;
+    margin-left: 5px;
+}

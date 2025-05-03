@@ -1,0 +1,26 @@
+---
+title: "Cody Dailey's Personal Website"
+about: 
+  template: trestles
+  image: /files/pictures/headshot.jpg
+  links: 
+    - icon: envelope-at
+      text: Email
+      href: mailto:daileyco@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/daileyco/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daileyco/
+    - icon: stack-overflow
+      text: Stack Overflow
+      href: https://stackoverflow.com/users/7870390/daileyco
+
+---
+
+
+
+Cody is a recent PhD graduate interested in infectious disease epidemiology. 
+
+

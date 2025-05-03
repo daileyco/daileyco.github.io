@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources: "files/"
+
+website:
+  title: ""
+  favicon: /files/pictures/Opie_ears_cropped.png
+  navbar:
+    logo: /files/pictures/CAD_cartoon_JFR-nobackground.png
+    tools: 
+      - icon: envelope-at
+        href: mailto:daileyco@gmail.com
+      - icon: github
+        href: https://github.com/daileyco/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daileyco/
+      - icon: stack-overflow
+        href: https://stackoverflow.com/users/7870390/daileyco
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: cv.qmd
+        text: Curriculum Vitae
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+

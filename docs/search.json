@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cody Dailey’s Personal Website",
+    "section": "",
+    "text": "Cody is a recent PhD graduate interested in infectious disease epidemiology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Cody Dailey!\n\n\n\n\n\nSitting at a café in Montpellier, France 2020\n\n\n\n \nI am a triple Dawg. I received my Bachelor’s of Science (BS) degree in Biology with a minor in French in 2015. I received my Master’s of Public Health (MPH) dual degree concentrating in Epidemiology and Biostatistics in 2017. I recently completed my Ph.D. in Epidemiology and Biostatistics with a concentration in Data Analysis and Modeling with my dissertation entitled “Spatial Epidemiology of Seasonal Influenza in the United States.” In my work, I utilized a variety of techniques to yield more holistic insights into the spatial patterns we observe in influenza epidemiology. These include human mobility models, basic regression models, network analysis, and basic phylogenetics. Collectively, my efforts helped to characterize spatial scales within the US.\n\n\n\n\n\nUndergraduate Commencement night 2015 with my parents and siblings\n\n\n\n\n\nMPH Graduation 2017\n\n\n\n \nMy research interests include infectious diseases, mathematical modeling, surveillance, spatial epidemiology, phylodynamics, and data science among others.\nCurrently, I am on the hunt for a job which will allow me to utilize all the analytical skills I developed during my studies!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
+  }
+]

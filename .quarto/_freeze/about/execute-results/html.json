@@ -1,0 +1,14 @@
+{
+  "hash": "65bb69c5c702c186e5e817eea1a69865",
+  "result": {
+    "markdown": "---\ntitle: \"About Me\"\nformat: \n  html:\n    backgroundcolor: \"#dadada\"\n---\n\n\n<style>\n  figure {\n    display: inline-block;\n    margin: 0 auto;\n    vertical-align: top;\n    text-align: center;\n  }\n  figure img {\n    vertical-align: top;\n    border: 5px solid #ffffff; \n    border-bottom: 50px solid #ffffff;\n  }\n  figure figcaption {\n    font-size: 75%;\n    text-align: left;\n    margin-top: -40px;\n    margin-left: 5px;\n}\n</style>\n\n\nHello! My name is **Cody Dailey**!\n\n\n::: {.cell layout-align=\"center\"}\n\n:::\n\n<br>\n\n<center>\n<figure>\n    <img src=\"/files/pictures/CAD_photo.png\" height=\"350px\" width=auto>\n    <figcaption>Sitting at a café in Montpellier, France 2020</figcaption>\n</figure>\n</center>\n\n<br>\n<br>\n\n\nI am a triple Dawg. I received my Bachelor's of Science (BS) degree in Biology with a minor in French in 2015. I received my Master's of Public Health (MPH) dual degree concentrating in Epidemiology and Biostatistics in 2017. I recently completed my Ph.D. in Epidemiology and Biostatistics with a concentration in Data Analysis and Modeling with my dissertation entitled \"Spatial Epidemiology of Seasonal Influenza in the United States.\" In my work, I utilized a variety of techniques to yield more holistic insights into the spatial patterns we observe in influenza epidemiology. These include human mobility models, basic regression models, network analysis, and basic phylogenetics. Collectively, my efforts helped to characterize spatial scales within the US. \n\n\n<br>\n\n<center>\n<figure>\n    <img src=\"/files/pictures/BS_graduation.png\" height=\"350px\" width=auto>\n    <figcaption>Undergraduate Commencement night 2015 with my parents and siblings</figcaption>\n</figure>    \n    \n<figure>\n    <img src=\"/files/pictures/MPH_graduation.png\" height=\"350px\" width=auto>\n    <figcaption>MPH Graduation 2017</figcaption>\n</figure>\n</center>\n\n<br>\n<br>\n\n\n\nMy research interests include infectious diseases, mathematical modeling, surveillance, spatial epidemiology, phylodynamics, and data science among others. \n\nCurrently, I am on the hunt for a job which will allow me to utilize all the analytical skills I developed during my studies! ",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
